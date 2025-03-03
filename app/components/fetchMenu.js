@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { menuList } from "./menuList";
 import Image from "next/image";
 
-export default function fetchMenu({ ingredient }) {
+export default function FetchMenu({ ingredient }) {
   
   const ingredientList = [
     { name: "ไข่ผำ", type: "vegetable" }, // Edible plant part, often used as a vegetable.
