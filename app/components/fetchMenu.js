@@ -57,7 +57,7 @@ export default function FetchMenu({ ingredient }) {
           <pre key={i} className="card">
             {n.name}
             <Image
-              src={n.image=="" ? "https://placehold.co/300x300" : "/menu/"+n.image}
+              src={n.image=="" ? "/menu/404.jpg" : "/menu/"+n.image}
               width={300}
               height={400}
               className="img"
