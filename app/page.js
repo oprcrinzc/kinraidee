@@ -29,7 +29,7 @@ export default function Home() {
           </p>
         </div>
           <pre>
-          <FetchMenu ingredient={ing} />
+          <FetchMenu ingredient={ing}  />
           </pre>
       </div>
     </body>

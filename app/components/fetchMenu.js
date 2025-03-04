@@ -59,7 +59,8 @@ export default function FetchMenu({ ingredient }) {
             <Image
               src={n.image=="" ? "https://placehold.co/300x300" : "/menu/"+n.image}
               width={300}
-              height={300}
+              height={400}
+              className="img"
             />
           </pre>
         );

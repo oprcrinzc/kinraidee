@@ -27,27 +27,27 @@ const menuList = [
     {
       name: "ผัดเผ็ดกบ",
       ingredient: ["กบ"],
-      image: "",
+      image: "gpp.jpg",
     },
     {
       name: "ต้มยำกบ",
       ingredient: ["กบ"],
-      image: "",
+      image: "gty.jpg",
     },
     {
       name: "แกงอ่อมกบ",
       ingredient: ["กบ"],
-      image: "",
+      image: "gko.jpg",
     },
     {
       name: "กบย่าง",
       ingredient: ["กบ"],
-      image: "",
+      image: "gyf.jpg",
     },
     {
       name: "ลาบกบ",
       ingredient: ["กบ"],
-      image: "",
+      image: "glp.jpg",
     },
     {
       name: "ผัดเผ็ดหนูนา",
@@ -152,52 +152,52 @@ const menuList = [
     {
       name: "ไก่ทอดน้ำปลา",
       ingredient: ["ไก่"],
-      image: "",
+      image: "ktk.jpg",
     },
     {
       name: "ข้าวมันไก่",
       ingredient: ["ไก่"],
-      image: "",
+      image: "kkm.jpg",
     },
     {
       name: "บะหมี่ไก่ตุ๋น",
       ingredient: ["ไก่"],
-      image: "",
+      image: "kbm.jpg",
     },
     {
       name: "ยำไก่แซ่บ",
       ingredient: ["ไก่"],
-      image: "",
+      image: "kyz.jpg",
     },
     {
       name: "มัสมั่นไก่",
       ingredient: ["ไก่"],
-      image: "",
+      image: "kmz.jpg",
     },
     {
       name: "ปลาทอดราดพริกสามรส",
       ingredient: ["ปลา"],
-      image: "",
+      image: "fps.jpg",
     },
     {
       name: "ปลานึ่งมะนาว",
       ingredient: ["ปลา"],
-      image: "",
+      image: "fnm.jpg",
     },
     {
       name: "ปลาทอดยำตระไคร้อง",
       ingredient: ["ปลา"],
-      image: "",
+      image: "fyt.jpg",
     },
     {
       name: "ฉู่ฉี่ปลา",
       ingredient: ["ปลา"],
-      image: "",
+      image: "fzz.jpg",
     },
     {
       name: "เมี่ยงปลา",
       ingredient: ["ปลา"],
-      image: "",
+      image: "fmg.jpg",
     },
     {
       name: "สเต็กเนื้อ",
