@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <body className={isSearched ? "s" : ""}>
       <div className={"home" + (isSearched ? " s" : "")}>
-        <p1 className="title">เมนูกินได้</p1>
+        <p1 className="title">ใส่วัตถุดิบ</p1>
         <div className={"search" + (isSearched ? " s" : "")}>
           <textarea wrap="true" ref={textareaRef} disabled={(isSearched)} rows={10} cols={50}/>
           <p className="btn" id="find_btn" onClick={onFindBtnClick}>
